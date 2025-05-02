@@ -59,3 +59,6 @@ php artisan serve --host=localhost --port=8000
 #user
 #email: user@email.com
 #password: user12345 
+
+#Document API (posmant collection)
+https://elements.getpostman.com/redirect?entityId=12828360-e883ea2c-5497-47c2-9b11-abe4c7e5bf19&entityType=collection
